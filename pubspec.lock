@@ -23,7 +23,7 @@ packages:
     source: hosted
     version: "2.4.1"
   auto_size_text:
-    dependency: "direct dev"
+    dependency: "direct main"
     description:
       name: auto_size_text
       url: "https://pub.dartlang.org"

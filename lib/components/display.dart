@@ -27,13 +27,11 @@ class Display extends StatelessWidget {
                 maxLines: 1,
                 textAlign: TextAlign.end,
                 style: TextStyle(
+                  fontFamily: "Roboto",
                   fontWeight: FontWeight.w100,
                   decoration: TextDecoration.none,
                   fontSize: 80,
                   color: Colors.white
-
-                  //VÍDEO PARADO EM: 10:43
-
                 ),
               ),
             ),
