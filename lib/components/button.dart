@@ -45,7 +45,7 @@ class Button extends StatelessWidget{
             fontWeight: FontWeight.w200,
           ),
         ),
-        onPressed: () {},
+        onPressed: () => cb(text),
       )
     );
   }
